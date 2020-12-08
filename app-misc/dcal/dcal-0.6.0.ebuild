@@ -5,7 +5,7 @@ EAPI=7
 
 DESCRIPTION="Calculate the days between two given dates."
 HOMEPAGE="https://bobwxc.github.io/dcal/"
-SRC_URI=""
+SRC_URI="https://github.com/bobwxc/dcal/archive/0.6.0.tar.gz"
 
 LICENSE="Mulan PSL v2"
 SLOT="0"
