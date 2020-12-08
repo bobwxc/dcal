@@ -182,7 +182,7 @@ int main(int argc, char *argv[])
 		if(opt=='v')
 		{
 			printf("\33[;31;1mdt\33[1m");
-			printf("\33[0m version v0.6\33[0m\n");
+			printf("\33[0m version v0.6.0\33[0m\n");
 			return 0;
 		}
 		if(opt=='f')

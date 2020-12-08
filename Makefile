@@ -1,4 +1,9 @@
 dcal:dcal.c
-	gcc dcal.c -o dcal
+	cc dcal.c -o dcal
+
+install:
+	cc dcal.c -o dcal
+	mv ./dcal /usr/bin/
+
 clean:
 	rm dcal
