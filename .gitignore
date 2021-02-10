@@ -1,3 +1,6 @@
 /dcal
 /app-misc/dcal/Manifest
+/*.tar.gz
+/*.tar.xz
+/dcal-*
 
